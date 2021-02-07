@@ -13,7 +13,7 @@ export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER="1"
 export OF_DISABLE_MIUI_SPECIFIC_FEATURES="0"
 # export OF_VANILLA_BUILD="1"
 export LC_ALL="C"
-export TARGET_DEVICE_ALT="guacamoleb, guacamolec"
+export TARGET_DEVICE_ALT="guacamoleb, guacamolec, oneplus 7, oneplus 7 pro, oneplus 7T"
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
