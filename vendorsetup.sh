@@ -4,8 +4,8 @@
 export TARGET_ARCH="arm64-v8a"
 
 # Some about us
-export FOX_VERSION="R11.0_4"
-export OF_MAINTAINER=Invernomuto
+export FOX_VERSION="R11.0_5"
+export OF_MAINTAINER=Invernomut0
 
 # Build environment stuffs
 export ALLOW_MISSING_DEPENDENCIES=true
