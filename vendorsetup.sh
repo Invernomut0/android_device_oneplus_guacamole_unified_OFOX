@@ -4,7 +4,7 @@
 export TARGET_ARCH="arm64-v8a"
 
 # Some about us
-export FOX_VERSION="R11.0_5"
+export FOX_VERSION="R11.0_6"
 export OF_MAINTAINER=Invernomut0
 
 # Build environment stuffs
